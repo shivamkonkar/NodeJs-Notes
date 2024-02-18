@@ -39,7 +39,7 @@ Your contributions will help improve the learning experience for everyone!
 
 ## License
 
-All content in this repository is licensed under [CC0-1.0 License](LICENSE), which means you can freely use and modify it for your educational purposes.
+All content in this repository is licensed under [MIT License](LICENSE), which means you can freely use and modify it for your educational purposes.
 
 ---
 
